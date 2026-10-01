@@ -1,0 +1,6 @@
+{
+  "name": "ProTrade — Stock Portfolio & Excel Engine",
+  "description": "Real-time stock portfolio manager, live auto-updating buy and sell trade execution, interactive watchlist, account ledger statement, and advanced multi-sheet Excel generator with formula calculation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
